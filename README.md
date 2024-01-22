@@ -2,5 +2,5 @@
 This repository was created for software engineering class.
 
 # Credits
-Eric Pouge
-Chatgpt
+-Eric Pouge
+-Chatgpt
