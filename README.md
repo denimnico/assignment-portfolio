@@ -1,6 +1,4 @@
-# Nico introductions (2024)
-This repository was created for software engineering class.
-
+# Nico Assignment Portfolio (2024)
+This repository was created to keep track of all current and future assignments.
 # Credits
--Eric Pouge
--Chatgpt
+-Nico Paredes
